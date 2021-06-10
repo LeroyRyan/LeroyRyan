@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeroyRyan
-- 👀 I’m interested in game development using C++ and Python.
+- 👀 I’m interested in Game Development and Software Development.
 - 🌱 I’m currently learning Godot, Python, JavaScript and OpenGL. 
 - 💞️ I’m looking to collaborate on Game Development. 
 - 📫 How to reach me ...
