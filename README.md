@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeroyRyan
-- 👀 I’m interested in Game and Software Development.
-- 🌱 I’m currently learning Godot, Python, JavaScript and OpenGL. 
+- 👀 I’m interested in C++ Game and Software Development.
+- 🌱 I’m currently learning SFML, Lua and ImGui. 
 - 💞️ I’m looking to collaborate on Game Development. 
 - 📫 How to reach me ...
 
